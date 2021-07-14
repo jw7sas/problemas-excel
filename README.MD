@@ -6,3 +6,4 @@ Este proyecto vamos a tener una serie de archivos donde veremos diferentes probl
 
 * 01. problemas de excel | obtener registros únicos - archivo: "~/src/files/01-problemas-excel-Obtener-Registros-Unicos.xlsx"
 * 02. problemas de excel | Sumar dígitos de un número - archivo: "~/src/files/02-problemas-excel-Sumar-Digitos-de-un-Numero.xlsx"
+* 03. problemas de excel | Contar vocales | funcion sustituir - archivo: "~/src/files/03-problemas-excel-Contar-Vocales.xlsx"
